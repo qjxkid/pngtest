@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pngtest", "pngtest\pngtest.vcproj", "{145A9030-EF8A-4FD5-9560-2F4D09128543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145A9030-EF8A-4FD5-9560-2F4D09128543}.Debug|Win32.ActiveCfg = Debug|Win32
+		{145A9030-EF8A-4FD5-9560-2F4D09128543}.Debug|Win32.Build.0 = Debug|Win32
+		{145A9030-EF8A-4FD5-9560-2F4D09128543}.Release|Win32.ActiveCfg = Release|Win32
+		{145A9030-EF8A-4FD5-9560-2F4D09128543}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
